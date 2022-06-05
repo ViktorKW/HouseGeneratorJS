@@ -1,0 +1,23 @@
+.big-house-style {
+  display: inline-block;
+  background-color: brown;
+  font-weight: bold;
+}
+
+#content {
+  text-align: center;
+  padding: 70px 0;
+  color: black;
+}
+
+.apartment-style {
+  display: inline-block;
+  border: 5px solid black;
+}
+
+.room-style {
+  display: inline-block;
+  background-color: white;
+  border: 5px solid black;
+  padding: 5px 0px;
+}
